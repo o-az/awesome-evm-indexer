@@ -39,3 +39,7 @@ _______
 ### Ponder: A backend framework for crypto apps
 - https://ponder.sh
 - Ponder is an open-source framework for blockchain application backends. With Ponder, you can build a GraphQL API for any set of smart contracts on Ethereum-based blockchains with hot reloading, type safety, and easy deployment to production.
+
+### Coherent EVM Models
+- https://github.com/coherentdevs/evm-models
+- Our Ethereum DBT Models and Tables provide a solid foundation for developers to build and analyze Ethereum transaction data. We focus on two base models, raw and decoded, which can be extended with custom DBT models to fit your specific use case.
