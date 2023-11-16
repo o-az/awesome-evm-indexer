@@ -1,8 +1,4 @@
-# awesome-evm-indexer
-Awesome list of EVM indexing tools and libraries 
-
-
-## Indexers
+# Awesome list of EVM indexing tools and libraries
 
 ### The Graph: an indexing protocol for querying networks like Ethereum and IPFS.
 - https://thegraph.com
