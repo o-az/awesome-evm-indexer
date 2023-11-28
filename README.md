@@ -43,3 +43,7 @@ _______
 ### Coherent EVM Models
 - https://github.com/coherentdevs/evm-models
 - Our Ethereum DBT Models and Tables provide a solid foundation for developers to build and analyze Ethereum transaction data. We focus on two base models, raw and decoded, which can be extended with custom DBT models to fit your specific use case.
+
+### Subquery: Query Decentralised Data Faster
+- https://subquery.network/
+- Fast, reliable, decentralised, and customised APIs for your web3 project
