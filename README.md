@@ -47,3 +47,8 @@ _______
 ### Subquery: Query Decentralised Data Faster
 - https://subquery.network/
 - Fast, reliable, decentralised, and customised APIs for your web3 project
+
+### nxyz: Fast Reliable Web3 Indexing
+- https://n.xyz
+- Real-time, flexible blockchain data APIs.
+Low latency. Multi-chain.
