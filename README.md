@@ -56,3 +56,7 @@ Low latency. Multi-chain.
 ### Transpose: Indexed real-time blockchain data
 - https://www.transpose.io
 - Best-in-class indexing coverage paired with powerful integration options remove the complexity of ingesting blockchain data at scale, saving you time and money.
+
+### Ormi: A next-generation indexing layer built for real-time and historical blockchain data at scale.
+- https://ormilabs.com/
+- Ormi delivers real-time, indexed blockchain data that is fast and ready to use in production. It stays synced to the tip of the chain, keeping data fresh, accurate, and instantly available through Subgraphs and APIs.
