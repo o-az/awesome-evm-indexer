@@ -6,7 +6,7 @@ _______
 
 ### Envio
 - https://envio.dev
-- HyperIndex is a real-time multichain indexing framework for any EVM chain, plus Solana and Fuel. Index contract events with handlers written in TypeScript, JavaScript, or ReScript and serve the result as a GraphQL API, with historical backfill and live events in one pipeline, automatic reorg handling, and factory contract support. It is powered by HyperSync, a high-performance data engine that replaces traditional JSON-RPC. Run it self-hosted or fully managed on Envio Cloud.
+- HyperIndex is a real-time multichain indexing framework for any EVM chain, plus Solana and Fuel. Index contract events with handlers written in TypeScript, JavaScript, or ReScript and serve the result as a GraphQL API, with historical backfill and live events in one pipeline, automatic reorg handling, and factory contract support. It is powered by HyperSync, a data engine that replaces traditional JSON-RPC and delivers up to 2000x faster data access. In independent Sentio benchmarks, HyperIndex completed the Uniswap V2 Factory workload in 8 seconds, 15x faster than the nearest competitor and 142x faster than The Graph. The benchmarks are open and reproducible at https://github.com/enviodev/open-indexer-benchmark. Run it self-hosted or fully managed on Envio Cloud.
 
 ### The Graph: an indexing protocol for querying networks like Ethereum and IPFS.
 - https://thegraph.com
