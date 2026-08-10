@@ -68,3 +68,7 @@ Low latency. Multi-chain.
 ### Codex: Enriched token data API for real-time and historical prices, charts and holders
 - https://www.codex.io
 - Codex indexes thousands of transactions per second across 80+ networks and serves enriched token data through a GraphQL API and websockets: real-time and historical USD pricing, charts, holder balances, aggregated volume and liquidity, scam filtering, and trending algorithms. Used by teams like Coinbase, TradingView, and Uniswap.
+
+### OnFinality Indexer: Production-ready hosting for The Graph and SubQuery
+- https://onfinality.io/en/indexer-services
+- OnFinality provides managed, scalable hosting for SubQuery indexing projects and The Graph subgraphs, delivering GraphQL APIs for dApps while handling deployment, maintenance, and scaling.
