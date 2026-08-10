@@ -65,6 +65,10 @@ Low latency. Multi-chain.
 - https://ormilabs.com/
 - Ormi delivers real-time, indexed blockchain data that is fast and ready to use in production. It stays synced to the tip of the chain, keeping data fresh, accurate, and instantly available through Subgraphs and APIs.
 
+### Codex: Enriched token data API for real-time and historical prices, charts and holders
+- https://www.codex.io
+- Codex indexes thousands of transactions per second across 80+ networks and serves enriched token data through a GraphQL API and websockets: real-time and historical USD pricing, charts, holder balances, aggregated volume and liquidity, scam filtering, and trending algorithms. Used by teams like Coinbase, TradingView, and Uniswap.
+
 ### OnFinality Indexer: Production-ready hosting for The Graph and SubQuery
 - https://onfinality.io/en/indexer-services
 - OnFinality provides managed, scalable hosting for SubQuery indexing projects and The Graph subgraphs, delivering GraphQL APIs for dApps while handling deployment, maintenance, and scaling.
