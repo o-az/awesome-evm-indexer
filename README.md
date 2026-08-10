@@ -64,3 +64,7 @@ Low latency. Multi-chain.
 ### Ormi: A next-generation indexing layer built for real-time and historical blockchain data at scale.
 - https://ormilabs.com/
 - Ormi delivers real-time, indexed blockchain data that is fast and ready to use in production. It stays synced to the tip of the chain, keeping data fresh, accurate, and instantly available through Subgraphs and APIs.
+
+### OnFinality Indexer: Production-ready hosting for The Graph and SubQuery
+- https://onfinality.io/en/indexer-services
+- OnFinality provides managed, scalable hosting for SubQuery indexing projects and The Graph subgraphs, delivering GraphQL APIs for dApps while handling deployment, maintenance, and scaling.
