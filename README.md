@@ -71,4 +71,5 @@ Low latency. Multi-chain.
 
 ### OnFinality Indexer: Production-ready hosting for The Graph and SubQuery
 - https://onfinality.io/en/indexer-services
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 - OnFinality provides managed, scalable hosting for SubQuery indexing projects and The Graph subgraphs, delivering GraphQL APIs for dApps while handling deployment, maintenance, and scaling.
