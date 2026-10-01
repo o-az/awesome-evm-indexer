@@ -73,3 +73,7 @@ Low latency. Multi-chain.
 - https://onfinality.io/en/indexer-services
 - [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 - OnFinality provides managed, scalable hosting for SubQuery indexing projects and The Graph subgraphs, delivering GraphQL APIs for dApps while handling deployment, maintenance, and scaling.
+
+### nuthatch: turn an EVM contract's history into a local SQL database
+- https://github.com/nightswatchhq/nuthatch
+- One Rust binary, with no Postgres or Docker to run. `nuthatch init 0xAddr` generates tables from the contract's ABI, `nuthatch dev` backfills from your RPC endpoint and follows the tip, and the data is queryable with SQL, HTTP and a built-in MCP server. Self-hosted, MIT OR Apache-2.0, no telemetry.
