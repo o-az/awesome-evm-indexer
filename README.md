@@ -77,3 +77,5 @@ Low latency. Multi-chain.
 ### nuthatch: turn an EVM contract's history into a local SQL database
 - https://github.com/nightswatchhq/nuthatch
 - One Rust binary, with no Postgres or Docker to run. `nuthatch init 0xAddr` generates tables from the contract's ABI, `nuthatch dev` backfills from your RPC endpoint and follows the tip, and the data is queryable with SQL, HTTP and a built-in MCP server. Self-hosted, MIT OR Apache-2.0, no telemetry.
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Agent / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure agent, OpenAPI 3.1.0 tool (`openapi.json`), `SKILL.md`, and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources and 0%-fee Morpho Blue flash-loan execution.
