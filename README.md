@@ -77,3 +77,7 @@ Low latency. Multi-chain.
 ### nuthatch: turn an EVM contract's history into a local SQL database
 - https://github.com/nightswatchhq/nuthatch
 - One Rust binary, with no Postgres or Docker to run. `nuthatch init 0xAddr` generates tables from the contract's ABI, `nuthatch dev` backfills from your RPC endpoint and follows the tip, and the data is queryable with SQL, HTTP and a built-in MCP server. Self-hosted, MIT OR Apache-2.0, no telemetry.
+
+### BlockVectra: Hosted EVM data APIs
+- https://docs.blockvectra.com/en/api/data/?ref=gh-evm-indexer
+- API-key authenticated REST access to indexed EVM data, with per-chain coverage discovery, cursor pagination and dataset freshness metadata. A TypeScript SDK is available. Historical coverage and datasets vary by chain.
