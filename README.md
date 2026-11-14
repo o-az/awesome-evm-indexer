@@ -75,7 +75,7 @@ Low latency. Multi-chain.
 - OnFinality provides managed, scalable hosting for SubQuery indexing projects and The Graph subgraphs, delivering GraphQL APIs for dApps while handling deployment, maintenance, and scaling.
 
 ### nuthatch: turn an EVM contract's history into a local SQL database
-- https://github.com/nightswatchhq/nuthatch
+- https://github.com/nuthatch-org/nuthatch
 - One Rust binary, with no Postgres or Docker to run. `nuthatch init 0xAddr` generates tables from the contract's ABI, `nuthatch dev` backfills from your RPC endpoint and follows the tip, and the data is queryable with SQL, HTTP and a built-in MCP server. Self-hosted, MIT OR Apache-2.0, no telemetry.
 
 ### BlockVectra: Hosted EVM data APIs
